@@ -1,0 +1,93 @@
+.secinn2 {
+  margin-top: 50px;
+}
+
+.seccases {
+  margin-left: 18vh;
+  margin-right: 5vh;
+}
+
+.secrep {
+  width: 50vh;
+  margin-top: 0vh;
+  margin-left: 50vh;
+  margin-bottom: 5vh;
+}
+
+.ssearchinpu {
+  width: 52vh;
+  margin-right: 18vh;
+  margin-left: 0.5vh;
+}
+
+.lanp1 {
+  width: 50vh;
+  margin-top: 130px;
+  margin-bottom: 40px;
+  margin-left: 29vh;
+}
+
+.lpttttt {
+  background-image: radial-gradient(rgba(1, 1, 1, 0.8), rgba(1, 1, 1, 0.9));
+  height: 100vh;
+  overflow-y: scroll;
+}
+
+.ssearch-label {
+  margin-left: 81vh;
+  margin-top: 1vh;
+  margin-bottom: 1vh;
+  width: 18%;
+}
+
+.secinn2 {
+  margin-top: -5vh;
+}
+
+.clt2 {
+  margin-top: 10vh;
+  color: white;
+}
+
+.synp {
+  margin-left: 70vh;
+  margin-top: 10vh;
+}
+
+.synp:hover {
+  color: blue;
+  cursor: pointer;
+}
+
+.clth1 {
+  margin-left: 50vh;
+
+  margin-bottom: 10vh;
+}
+
+.secselec {
+  margin-left: -50vh;
+  width: 50vh;
+  margin-top: 20vh;
+  border: 2px solid black;
+}
+
+.sectable11 {
+  margin-top: 5vh;
+  font-size: 20px;
+  margin-left: -104vh;
+
+  width: 150vh;
+}
+.act1 {
+  border-radius: 5px;
+  padding-bottom: 0vh;
+}
+
+.act4 {
+  margin-left: -2vh;
+}
+
+.secchar {
+  margin-left: -110vh;
+}
